@@ -1,0 +1,15 @@
+{
+    "name": "go-my-test",
+    "description": "Just for testing",
+    "author": "Michael Ko",
+    "email": "koyote130708@gmail.com",
+    "version": "0.0.1",
+    "keywords": [
+    ],
+    "main": "index.js",
+    "scripts": {
+    },
+    "devDependencies": {
+    },
+    "engine": "node >= 0.10"
+}
